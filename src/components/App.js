@@ -15,6 +15,7 @@ function App() {
       <ShoppingList />
     </div>
   );
+
 }
 
 export default App;
